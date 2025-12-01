@@ -4,3 +4,5 @@ build/
 .env 
 .vscode/ 
 .DS_Store 
+.vercel
+.env*.local
